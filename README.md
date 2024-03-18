@@ -1,6 +1,6 @@
 # Proyectos Freelance Para Tesis
 
-[English](#readme-md-english) | [Español](#readme-md-español)
+[English](#freelance-thesis-projects-english) | [Español](#proyectos-freelance-para-tesis)
 
 ## Descripción
 
@@ -35,7 +35,7 @@ Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, puede
 
 # Freelance Thesis Projects (English)
 
-[English](#readme-md-english) | [Español](#readme-md-español)
+[English](#freelance-thesis-projects-english) | [Español](#proyectos-freelance-para-tesis)
 
 ## Description
 
