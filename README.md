@@ -30,6 +30,7 @@ Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, puede
 
 - Correo electrónico: [codeseazeal@gmail.com](mailto:codeseazeal@gmail.com)
 - Teléfono: +584127822655
+- Portafolio: [marcelogarcia.vercel.app](https://marcelogarcia.vercel.app)
 
 ---
 
@@ -65,3 +66,4 @@ If you have any questions or are interested in collaborating on a project, you c
 
 - Email: [codeseazeal@gmail.com](mailto:codeseazeal@gmail.com)
 - Phone: +584127822655
+- Portfolio: [marcelogarcia.vercel.app](https://marcelogarcia.vercel.app)
