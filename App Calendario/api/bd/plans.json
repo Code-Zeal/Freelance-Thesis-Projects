@@ -1,0 +1,838 @@
+{
+  "planesBajarPeso": [
+    {
+      "nombre": "Transformación Sostenible",
+      "objetivo": "bajar de peso de forma saludable",
+      "imagen": "https://i.postimg.cc/nhs0VnXZ/bajarpeso1.jpg",
+      "ingredientesSemanales": [
+        "Claras de huevo",
+        "Pan integral",
+        "Naranjas",
+        "Mix de hojas verdes",
+        "Pechuga de pollo",
+        "Arroz integral",
+        "Yogur griego bajo en grasa",
+        "Frutas frescas variadas",
+        "Filetes de salmón",
+        "Variedad de vegetales para vaporizar"
+      ],
+      "descripcion": "Plan de alimentación equilibrado para bajar de peso gradualmente",
+      "comidas": [
+        {
+          "nombre": "Desayuno",
+          "alimentos": [
+            "Omelette de claras de huevo",
+            "Tostadas integrales",
+            "Jugo de naranja natural"
+          ],
+          "ingredientes": ["Claras de huevo", "Pan integral", "Naranjas"]
+        },
+        {
+          "nombre": "Almuerzo",
+          "alimentos": [
+            "Ensalada verde con pollo a la parrilla",
+            "Arroz integral",
+            "Agua"
+          ],
+          "ingredientes": [
+            "Mix de hojas verdes",
+            "Pechuga de pollo",
+            "Arroz integral"
+          ]
+        },
+        {
+          "nombre": "Merienda",
+          "alimentos": ["Yogur griego bajo en grasa", "Frutas frescas"],
+          "ingredientes": [
+            "Yogur griego bajo en grasa",
+            "Frutas frescas variadas"
+          ]
+        },
+        {
+          "nombre": "Cena",
+          "alimentos": [
+            "Salmón a la plancha",
+            "Vegetales al vapor",
+            "Infusión sin azúcar"
+          ],
+          "ingredientes": [
+            "Filetes de salmón",
+            "Variedad de vegetales para vaporizar"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Metamorfosis Vital",
+      "objetivo": "bajar de peso de forma saludable",
+      "imagen": "https://i.postimg.cc/8k94Cj65/bajarpeso2.jpg",
+      "ingredientesSemanales": [
+        "Proteínas en polvo",
+        "Pan integral",
+        "Queso bajo en grasa",
+        "Té verde",
+        "Pechuga de pollo",
+        "Mix de vegetales para ensalada",
+        "Limones",
+        "Frutas y verduras para batido",
+        "Nueces",
+        "Filete de pescado",
+        "Brócoli",
+        "Hierbas para infusión sin azúcar"
+      ],
+      "descripcion": "Plan de alimentación bajo en calorías para bajar de peso rápidamente",
+      "comidas": [
+        {
+          "nombre": "Desayuno",
+          "alimentos": [
+            "Batido de proteínas",
+            "Pan integral con queso bajo en grasa",
+            "Té verde sin azúcar"
+          ],
+          "ingredientes": [
+            "Proteínas en polvo",
+            "Pan integral",
+            "Queso bajo en grasa",
+            "Té verde"
+          ]
+        },
+        {
+          "nombre": "Almuerzo",
+          "alimentos": [
+            "Pechuga de pollo a la plancha",
+            "Ensalada de vegetales mixtos",
+            "Agua con limón"
+          ],
+          "ingredientes": [
+            "Pechuga de pollo",
+            "Mix de vegetales para ensalada",
+            "Limones"
+          ]
+        },
+        {
+          "nombre": "Merienda",
+          "alimentos": ["Batido de frutas y verduras", "Nueces"],
+          "ingredientes": ["Frutas y verduras para batido", "Nueces"]
+        },
+        {
+          "nombre": "Cena",
+          "alimentos": [
+            "Filete de pescado al horno",
+            "Brócoli al vapor",
+            "Infusión de hierbas sin azúcar"
+          ],
+          "ingredientes": [
+            "Filete de pescado",
+            "Brócoli",
+            "Hierbas para infusión sin azúcar"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Evolución Ligera",
+      "objetivo": "bajar de peso de forma saludable",
+      "imagen": "https://i.postimg.cc/0jwpS0wN/bajarpeso3.jpg",
+
+      "ingredientesSemanales": [
+        "Claras de huevo",
+        "Espinacas frescas",
+        "Champiñones",
+        "Pan integral",
+        "Té verde",
+        "Garbanzos",
+        "Tomates cherry",
+        "Cebolla",
+        "Pepino",
+        "Pimientos",
+        "Limones",
+        "Mostaza dijon",
+        "Manzanas",
+        "Mantequilla de almendra",
+        "Filete de merluza",
+        "Brócoli",
+        "Coliflor",
+        "Zanahorias",
+        "Hierbas finas"
+      ],
+      "descripcion": "Plan de alimentación equilibrado para bajar de peso gradualmente, enfocado en alimentos ricos en nutrientes y bajos en calorías vacías.",
+      "comidas": [
+        {
+          "nombre": "Desayuno",
+          "alimentos": [
+            "Revuelto de espinacas y champiñones con claras de huevo",
+            "Rebanada de pan integral",
+            "Té verde"
+          ],
+          "ingredientes": [
+            "Claras de huevo",
+            "Espinacas frescas",
+            "Champiñones",
+            "Pan integral"
+          ]
+        },
+        {
+          "nombre": "Almuerzo",
+          "alimentos": [
+            "Ensalada de garbanzos con tomates cherry, cebolla, pepino y pimientos",
+            "Aderezo de limón y mostaza dijon"
+          ],
+          "ingredientes": [
+            "Garbanzos",
+            "Tomates cherry",
+            "Cebolla",
+            "Pepino",
+            "Pimientos",
+            "Limones",
+            "Mostaza dijon"
+          ]
+        },
+        {
+          "nombre": "Merienda",
+          "alimentos": ["Rodajas de manzana con mantequilla de almendra"],
+          "ingredientes": ["Manzanas", "Mantequilla de almendra"]
+        },
+        {
+          "nombre": "Cena",
+          "alimentos": [
+            "Filete de merluza al vapor",
+            "Surtido de brócoli, coliflor y zanahorias",
+            "Sazonado con hierbas finas"
+          ],
+          "ingredientes": [
+            "Filete de merluza",
+            "Brócoli",
+            "Coliflor",
+            "Zanahorias"
+          ]
+        }
+      ]
+    }
+  ],
+  "planesAumentarPeso": [
+    {
+      "nombre": "Crecimiento Equilibrado",
+      "objetivo": "subir de peso de forma saludable",
+      "imagen": "https://i.postimg.cc/xd6yVCQ9/subirpeso1.jpg",
+
+      "ingredientesSemanales": [
+        "Avena",
+        "Leche",
+        "Frutas variadas",
+        "Huevos",
+        "Jugo de frutas",
+        "Arroz",
+        "Frijoles",
+        "Carne magra",
+        "Proteínas en polvo",
+        "Mantequilla de maní",
+        "Pan integral",
+        "Pasta integral",
+        "Salsa de tomate",
+        "Pollo",
+        "Ensalada mixta"
+      ],
+      "descripcion": "Plan de alimentación para aumentar de peso saludablemente",
+      "comidas": [
+        {
+          "nombre": "Desayuno",
+          "alimentos": [
+            "Avena con leche y frutas",
+            "Huevos revueltos",
+            "Jugo de frutas natural"
+          ],
+          "ingredientes": ["Avena", "Leche", "Frutas variadas", "Huevos"]
+        },
+        {
+          "nombre": "Almuerzo",
+          "alimentos": ["Arroz", "Frijoles", "Carne magra a la parrilla"],
+          "ingredientes": ["Arroz", "Frijoles", "Carne magra"]
+        },
+        {
+          "nombre": "Merienda",
+          "alimentos": [
+            "Batido de proteínas",
+            "Mantequilla de maní en pan integral"
+          ],
+          "ingredientes": [
+            "Proteínas en polvo",
+            "Mantequilla de maní",
+            "Pan integral"
+          ]
+        },
+        {
+          "nombre": "Cena",
+          "alimentos": [
+            "Pasta integral con salsa de tomate",
+            "Pollo a la plancha",
+            "Ensalada"
+          ],
+          "ingredientes": [
+            "Pasta integral",
+            "Salsa de tomate",
+            "Pollo",
+            "Ensalada mixta"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Impulso Fortificado",
+      "objetivo": "subir de peso de forma saludable",
+      "imagen": "https://i.postimg.cc/d1DRsYQr/subirpeso2.jpg",
+
+      "ingredientesSemanales": [
+        "Huevos",
+        "Vegetales variados",
+        "Pan integral",
+        "Aguacate",
+        "Proteínas en polvo",
+        "Leche",
+        "Quinoa",
+        "Pollo",
+        "Vegetales para saltear",
+        "Aceite de oliva",
+        "Avena",
+        "Frutos secos",
+        "Carne de res magra",
+        "Patatas",
+        "Ensalada verde"
+      ],
+      "descripcion": "Plan de alimentación para ganar peso y masa muscular",
+      "comidas": [
+        {
+          "nombre": "Desayuno",
+          "alimentos": [
+            "Tortilla de huevos con vegetales",
+            "Pan integral con aguacate",
+            "Leche con proteínas"
+          ],
+          "ingredientes": [
+            "Huevos",
+            "Vegetales variados",
+            "Pan integral",
+            "Aguacate",
+            "Proteínas en polvo",
+            "Leche"
+          ]
+        },
+        {
+          "nombre": "Almuerzo",
+          "alimentos": [
+            "Quinoa",
+            "Pollo al horno",
+            "Vegetales salteados con aceite de oliva"
+          ],
+          "ingredientes": [
+            "Quinoa",
+            "Pollo",
+            "Vegetales para saltear",
+            "Aceite de oliva"
+          ]
+        },
+        {
+          "nombre": "Merienda",
+          "alimentos": ["Batido de proteínas con avena", "Frutos secos"],
+          "ingredientes": ["Proteínas en polvo", "Avena", "Frutos secos"]
+        },
+        {
+          "nombre": "Cena",
+          "alimentos": [
+            "Carne de res magra a la parrilla",
+            "Patatas asadas",
+            "Ensalada verde"
+          ],
+          "ingredientes": ["Carne de res magra", "Patatas", "Ensalada verde"]
+        }
+      ]
+    },
+    {
+      "nombre": "Ascenso Nutritivo",
+      "objetivo": "subir de peso de forma saludable",
+      "imagen": "https://i.postimg.cc/W3KGtHtK/subirpeso3.jpg",
+
+      "ingredientesSemanales": [
+        "Proteínas en polvo",
+        "Leche entera",
+        "Plátano",
+        "Avena",
+        "Mantequilla de cacahuate",
+        "Granola",
+        "Arroz integral",
+        "Pechuga de pollo",
+        "Aguacate",
+        "Frijoles negros",
+        "Queso rallado",
+        "Yogur griego",
+        "Miel",
+        "Frutos secos",
+        "Filetes de salmón",
+        "Patatas dulces",
+        "Espinacas",
+        "Aceite de oliva"
+      ],
+      "descripcion": "Plan de alimentación para aumentar la ingesta calórica con alimentos nutritivos que apoyan la ganancia de peso saludable y el crecimiento muscular.",
+      "comidas": [
+        {
+          "nombre": "Desayuno",
+          "alimentos": [
+            "Batido de proteínas con leche entera, plátano, avena y mantequilla de cacahuate",
+            "Puñado de granola"
+          ],
+          "ingredientes": [
+            "Proteínas en polvo",
+            "Leche entera",
+            "Plátano",
+            "Avena",
+            "Mantequilla de cacahuate",
+            "Granola"
+          ]
+        },
+        {
+          "nombre": "Almuerzo",
+          "alimentos": [
+            "Bowl de arroz integral con pechuga de pollo, aguacate, frijoles negros",
+            "Cubierto con queso rallado y salsa de yogur griego"
+          ],
+          "ingredientes": [
+            "Arroz integral",
+            "Pechuga de pollo",
+            "Aguacate",
+            "Frijoles negros",
+            "Queso rallado"
+          ]
+        },
+        {
+          "nombre": "Merienda",
+          "alimentos": [
+            "Yogur griego entero con miel y una selección de frutos secos"
+          ],
+          "ingredientes": ["Yogur griego", "Miel", "Frutos secos"]
+        },
+        {
+          "nombre": "Cena",
+          "alimentos": [
+            "Salmón al horno con costra de frutos secos",
+            "Patatas dulces asadas y espinacas salteadas en aceite de oliva"
+          ],
+          "ingredientes": [
+            "Filetes de salmón",
+            "Patatas dulces",
+            "Espinacas",
+            "Aceite de oliva"
+          ]
+        }
+      ]
+    }
+  ],
+  "planesMantenerPeso": [
+    {
+      "nombre": "Plan Balanceado",
+      "objetivo": "mantener el peso de forma saludable",
+      "imagen": "https://i.postimg.cc/cLNcQ2TG/mantenerpeso1.jpg",
+
+      "ingredientesSemanales": [
+        "Pechuga de pollo",
+        "Pescado blanco",
+        "Huevos",
+        "Vegetales variados",
+        "Frutas",
+        "Arroz integral",
+        "Quinoa",
+        "Avena",
+        "Leche de almendras",
+        "Nueces",
+        "Aceite de oliva",
+        "Aguacate"
+      ],
+      "descripcion": "Plan equilibrado para mantener el peso con una mezcla de macronutrientes y una alta densidad de nutrientes.",
+      "comidas": [
+        {
+          "nombre": "Desayuno",
+          "alimentos": [
+            "Gachas de avena con frutas frescas y nueces",
+            "Huevos pasados por agua"
+          ],
+          "ingredientes": ["Avena", "Frutas", "Nueces", "Huevos"]
+        },
+        {
+          "nombre": "Almuerzo",
+          "alimentos": [
+            "Ensalada de quinoa con aguacate y tomate",
+            "Pechuga de pollo al grill"
+          ],
+          "ingredientes": ["Quinoa", "Aguacate", "Tomate", "Pechuga de pollo"]
+        },
+        {
+          "nombre": "Merienda",
+          "alimentos": ["Yogur natural con frutas y miel"],
+          "ingredientes": ["Yogur natural", "Frutas", "Miel"]
+        },
+        {
+          "nombre": "Cena",
+          "alimentos": [
+            "Pescado blanco al horno con vegetales salteados y un chorrito de aceite de oliva"
+          ],
+          "ingredientes": [
+            "Pescado blanco",
+            "Vegetales variados",
+            "Aceite de oliva"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Plan Mediterráneo",
+      "objetivo": "mantener el peso de forma saludable",
+      "imagen": "https://i.postimg.cc/7LHMRzpB/mantenerpeso2.jpg",
+      "ingredientesSemanales": [
+        "Legumbres como lentejas y garbanzos",
+        "Pescado azul",
+        "Frutas",
+        "Verduras de hoja verde",
+        "Cereales integrales",
+        "Frutos secos",
+        "Aceite de oliva virgen extra",
+        "Queso fresco"
+      ],
+      "descripcion": "Plan basado en la dieta mediterránea, conocida por promover la salud cardiovascular y mantener el peso.",
+      "comidas": [
+        {
+          "nombre": "Desayuno",
+          "alimentos": [
+            "Pan integral con aceite de oliva y tomate",
+            "Queso fresco"
+          ],
+          "ingredientes": [
+            "Pan integral",
+            "Aceite de oliva virgen extra",
+            "Tomate",
+            "Queso fresco"
+          ]
+        },
+        {
+          "nombre": "Almuerzo",
+          "alimentos": [
+            "Lentejas estofadas con verduras",
+            "Ensalada verde con semillas"
+          ],
+          "ingredientes": [
+            "Lentejas",
+            "Verduras para estofado",
+            "Hojas verdes para ensalada",
+            "Semillas varias"
+          ]
+        },
+        {
+          "nombre": "Merienda",
+          "alimentos": ["Fruta de temporada", "Un puñado de frutos secos"],
+          "ingredientes": ["Frutas", "Frutos secos"]
+        },
+        {
+          "nombre": "Cena",
+          "alimentos": ["Salmón al grill con espinacas salteadas"],
+          "ingredientes": ["Salmón", "Espinacas"]
+        }
+      ]
+    },
+    {
+      "nombre": "Plan Flexitariano",
+      "objetivo": "mantener el peso de forma saludable",
+      "imagen": "https://i.postimg.cc/0yd0ZnHM/mantenerpeso3.jpg",
+
+      "ingredientesSemanales": [
+        "Verduras y hortalizas variadas",
+        "Legumbres",
+        "Cereales integrales",
+        "Huevo",
+        "Lácteos",
+        "Pescado y mariscos ocasionalmente",
+        "Hierbas y especias"
+      ],
+      "descripcion": "Plan alimentario flexible que prioriza los productos vegetales sin excluir por completo los de origen animal.",
+      "comidas": [
+        {
+          "nombre": "Desayuno",
+          "alimentos": ["Smoothie bowl con granola y semillas de chía"],
+          "ingredientes": [
+            "Frutas para smoothie",
+            "Granola",
+            "Semillas de chía",
+            "Leche de almendras o yogur"
+          ]
+        },
+        {
+          "nombre": "Almuerzo",
+          "alimentos": [
+            "Bowl de arroz integral, legumbres y vegetales asados",
+            "Huevo cocido"
+          ],
+          "ingredientes": [
+            "Arroz integral",
+            "Legumbres como garbanzos o judías",
+            "Vegetales para asar",
+            "Huevo"
+          ]
+        },
+        {
+          "nombre": "Merienda",
+          "alimentos": ["Zanahorias con hummus"],
+          "ingredientes": ["Zanahorias", "Hummus"]
+        },
+        {
+          "nombre": "Cena",
+          "alimentos": ["Ensalada grande con queso feta y aceitunas"],
+          "ingredientes": [
+            "Hojas verdes para ensalada",
+            "Queso feta",
+            "Aceitunas"
+          ]
+        }
+      ]
+    }
+  ],
+  "PlanesMadreAmamantando": [
+    {
+      "nombre": "Plan Balanceado para Mujeres en Etapa de Lactancia",
+      "objetivo": "Mantener un peso saludable durante la lactancia",
+      "imagen": "https://i.postimg.cc/qRHgTbwf/amamantar.jpg",
+      "ingredientesSemanales": [
+        "Pechuga de pollo",
+        "Pescado blanco",
+        "Huevos",
+        "Vegetales variados",
+        "Frutas",
+        "Arroz integral",
+        "Quinoa",
+        "Avena",
+        "Leche de almendras",
+        "Nueces",
+        "Aceite de oliva",
+        "Aguacate"
+      ],
+      "descripcion": "Plan equilibrado para mantener un peso saludable durante la lactancia, proporcionando una mezcla adecuada de macronutrientes y una alta densidad de nutrientes.",
+      "comidas": [
+        {
+          "nombre": "Desayuno",
+          "alimentos": [
+            "Gachas de avena con frutas frescas y nueces",
+            "Huevos pasados por agua"
+          ],
+          "ingredientes": ["Avena", "Frutas", "Nueces", "Huevos"]
+        },
+        {
+          "nombre": "Almuerzo",
+          "alimentos": [
+            "Ensalada de quinoa con aguacate y tomate",
+            "Pechuga de pollo al grill"
+          ],
+          "ingredientes": ["Quinoa", "Aguacate", "Tomate", "Pechuga de pollo"]
+        },
+        {
+          "nombre": "Merienda",
+          "alimentos": ["Yogur natural con frutas y miel"],
+          "ingredientes": ["Yogur natural", "Frutas", "Miel"]
+        },
+        {
+          "nombre": "Cena",
+          "alimentos": [
+            "Pescado blanco al horno con vegetales salteados y un chorrito de aceite de oliva"
+          ],
+          "ingredientes": [
+            "Pescado blanco",
+            "Vegetales variados",
+            "Aceite de oliva"
+          ]
+        }
+      ]
+    }
+  ],
+  "PlanesFitness": [
+    {
+      "nombre": "Plan Balanceado para Personas Fitness",
+      "objetivo": "Mantener un estilo de vida saludable y optimizar el rendimiento físico",
+      "imagen": "https://i.postimg.cc/wM6vt1n0/Fitness.jpg",
+      "ingredientesSemanales": [
+        "Pechuga de pollo",
+        "Filete de salmón",
+        "Claras de huevo",
+        "Vegetales de hoja verde",
+        "Frutas variadas",
+        "Arroz integral",
+        "Quinoa",
+        "Batidos de proteínas",
+        "Almendras",
+        "Aceite de oliva",
+        "Aguacate"
+      ],
+      "descripcion": "Plan equilibrado para personas fitness que buscan mantener un estilo de vida saludable y optimizar su rendimiento físico, proporcionando una combinación adecuada de macronutrientes y nutrientes esenciales.",
+      "comidas": [
+        {
+          "nombre": "Desayuno",
+          "alimentos": [
+            "Batido de proteínas con frutas y almendras",
+            "Tortilla de claras de huevo con espinacas"
+          ],
+          "ingredientes": [
+            "Batido de proteínas",
+            "Frutas",
+            "Almendras",
+            "Claras de huevo",
+            "Espinacas"
+          ]
+        },
+        {
+          "nombre": "Almuerzo",
+          "alimentos": [
+            "Ensalada de quinoa con aguacate y salmón a la parrilla",
+            "Pechuga de pollo a la plancha con vegetales al vapor"
+          ],
+          "ingredientes": [
+            "Quinoa",
+            "Aguacate",
+            "Salmón",
+            "Pechuga de pollo",
+            "Vegetales"
+          ]
+        },
+        {
+          "nombre": "Merienda",
+          "alimentos": ["Yogur griego con frutas y nueces"],
+          "ingredientes": ["Yogur griego", "Frutas", "Nueces"]
+        },
+        {
+          "nombre": "Cena",
+          "alimentos": [
+            "Filete de salmón a la parrilla con espárragos y aceite de oliva"
+          ],
+          "ingredientes": ["Filete de salmón", "Espárragos", "Aceite de oliva"]
+        }
+      ]
+    }
+  ],
+  "PlanesDiabetes": [
+    {
+      "nombre": "Plan Balanceado para Personas con Diabetes",
+      "objetivo": "Mantener niveles de glucosa estables y promover una alimentación saludable",
+      "imagen": "https://i.postimg.cc/0QGj2YXz/Diabetes.jpg",
+      "ingredientesSemanales": [
+        "Pechuga de pollo",
+        "Pescado blanco",
+        "Huevos",
+        "Vegetales sin almidón",
+        "Frutas bajas en azúcar",
+        "Arroz integral",
+        "Quinoa",
+        "Avena",
+        "Leche sin azúcar",
+        "Nueces",
+        "Aceite de oliva",
+        "Aguacate"
+      ],
+      "descripcion": "Plan equilibrado para personas con diabetes que busca mantener niveles de glucosa estables y promover una alimentación saludable, con un enfoque en alimentos bajos en azúcar y carbohidratos de digestión lenta.",
+      "comidas": [
+        {
+          "nombre": "Desayuno",
+          "alimentos": [
+            "Huevos revueltos con espinacas y tomates",
+            "Avena con nueces y canela"
+          ],
+          "ingredientes": [
+            "Huevos",
+            "Espinacas",
+            "Tomates",
+            "Avena",
+            "Nueces",
+            "Canela"
+          ]
+        },
+        {
+          "nombre": "Almuerzo",
+          "alimentos": [
+            "Ensalada de pollo a la parrilla con vegetales mixtos sin almidón",
+            "Salmón al horno con espárragos"
+          ],
+          "ingredientes": [
+            "Pechuga de pollo",
+            "Vegetales sin almidón",
+            "Salmón",
+            "Espárragos"
+          ]
+        },
+        {
+          "nombre": "Merienda",
+          "alimentos": ["Yogur griego sin azúcar con frutas frescas y nueces"],
+          "ingredientes": ["Yogur griego sin azúcar", "Frutas", "Nueces"]
+        },
+        {
+          "nombre": "Cena",
+          "alimentos": [
+            "Filete de pescado blanco a la parrilla con vegetales al vapor y aceite de oliva"
+          ],
+          "ingredientes": [
+            "Pescado blanco",
+            "Vegetales sin almidón",
+            "Aceite de oliva"
+          ]
+        }
+      ]
+    }
+  ],
+  "PlanesColon": [
+    {
+      "nombre": "Plan Balanceado para Personas con Problemas del Colon",
+      "objetivo": "Promover una digestión saludable y reducir los síntomas del colon",
+      "imagen": "https://i.postimg.cc/x8tdL02Y/Colon.jpg",
+      "ingredientesSemanales": [
+        "Pechuga de pollo",
+        "Pescado blanco",
+        "Huevos",
+        "Vegetales de hoja verde",
+        "Frutas suaves",
+        "Arroz blanco",
+        "Quinoa",
+        "Avena",
+        "Leche sin lactosa",
+        "Yogur sin lactosa",
+        "Aceite de oliva",
+        "Aguacate"
+      ],
+      "descripcion": "Plan equilibrado para personas con problemas del colon que busca promover una digestión saludable y reducir los síntomas, con énfasis en alimentos suaves, bajos en fibra y fáciles de digerir.",
+      "comidas": [
+        {
+          "nombre": "Desayuno",
+          "alimentos": [
+            "Huevos revueltos con espinacas",
+            "Avena cocida con plátano y canela"
+          ],
+          "ingredientes": ["Huevos", "Espinacas", "Avena", "Plátano", "Canela"]
+        },
+        {
+          "nombre": "Almuerzo",
+          "alimentos": [
+            "Pechuga de pollo a la plancha con arroz blanco",
+            "Salmón al horno con vegetales de hoja verde"
+          ],
+          "ingredientes": [
+            "Pechuga de pollo",
+            "Arroz blanco",
+            "Salmón",
+            "Vegetales de hoja verde"
+          ]
+        },
+        {
+          "nombre": "Merienda",
+          "alimentos": ["Yogur sin lactosa con frutas suaves y almendras"],
+          "ingredientes": ["Yogur sin lactosa", "Frutas suaves", "Almendras"]
+        },
+        {
+          "nombre": "Cena",
+          "alimentos": [
+            "Filete de pescado blanco al horno con ensalada de aguacate"
+          ],
+          "ingredientes": ["Pescado blanco", "Aguacate"]
+        }
+      ]
+    }
+  ]
+}

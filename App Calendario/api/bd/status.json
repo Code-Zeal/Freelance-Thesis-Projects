@@ -1,0 +1,27 @@
+{
+  "status": [
+    "😄 Felicidad",
+    "😢 Tristeza",
+    "😡 Enojo",
+    "😰 Ansiedad",
+    "😫 Estrés",
+    "😴 Cansancio",
+    "😠 Irritabilidad"
+  ],
+  "symptoms": [
+    "🍽️ Cambios en el apetito",
+    "😴 Dificultad para conciliar el sueño",
+    "😫 Fatiga o falta de energía",
+    "😔 Pérdida de interés",
+    "🧠 Dificultad para concentrarse",
+    "😣 Sentimientos de culpa",
+    "🌡️ Dolores físicos inexplicables"
+  ],
+  "training": [
+    "🚶 Caminata",
+    "🧘‍♀️ Estiramientos",
+    "🏋️‍♀️ Ejercicios de cuerpo completo",
+    "🚴‍♀️ Ciclismo",
+    "🏊‍♀️ Natación"
+  ]
+}

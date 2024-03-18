@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "estado": "😄 Felicidad",
+    "consejo": "Cultiva la gratitud diaria. Tómate un momento para apreciar las cosas positivas en tu vida.",
+    "imagen": "https://i.postimg.cc/KvFBHs1Y/feliz.jpg"
+  },
+  {
+    "id": 2,
+    "estado": "😢 Tristeza",
+    "consejo": "Permítete sentir tus emociones y busca apoyo en amigos o seres queridos.",
+    "imagen": "https://i.postimg.cc/wvLRWhHJ/sad.jpg"
+  },
+  {
+    "id": 3,
+    "estado": "😡 Enojo",
+    "consejo": "Práctica la respiración profunda y busca formas saludables de canalizar tu energía, como el ejercicio o escribir tus sentimientos.",
+    "imagen": "https://i.postimg.cc/XN5khCxs/angry.jpg"
+  },
+  {
+    "id": 4,
+    "estado": "😰 Ansiedad",
+    "consejo": "Practica técnicas de relajación, como la meditación o el yoga, para reducir el estrés y la ansiedad.",
+    "imagen": "https://i.postimg.cc/jdr4rSFt/anxety.jpg"
+  },
+  {
+    "id": 5,
+    "estado": "😫 Estrés",
+    "consejo": "Prioriza el auto cuidado y encuentra actividades que te ayuden a relajarte, como tomar un baño caliente o leer un libro.",
+    "imagen": "https://i.postimg.cc/HkvMjYBJ/estres.jpg"
+  },
+  {
+    "id": 6,
+    "estado": "😴 Cansancio",
+    "consejo": "Asegúrate de dormir lo suficiente y establece una rutina de sueño regular para ayudar a tu cuerpo a descansar y recuperarse.",
+    "imagen": "https://i.postimg.cc/Njs85Ptn/cansado.jpg"
+  },
+  {
+    "id": 7,
+    "estado": "😠 Irritabilidad",
+    "consejo": "Toma un descanso y encuentra actividades que te ayuden a relajarte, como escuchar música relajante o dar un paseo al aire libre.",
+    "imagen": "https://i.postimg.cc/nckBbYmG/Irritable.jpg"
+  },
+  {
+    "id": 8,
+    "estado": "🍽️ Cambios en el apetito",
+    "consejo": "Mantén una alimentación equilibrada y consciente, prestando atención a las señales de hambre y saciedad de tu cuerpo.",
+    "imagen": "https://i.postimg.cc/jSMHNQdS/comidaapetito.jpg"
+  },
+  {
+    "id": 9,
+    "estado": "😴 Dificultad para conciliar el sueño",
+    "consejo": "Crea un ambiente propicio para el sueño, como mantener un cuarto oscuro y libre de distracciones antes de acostarte.",
+    "imagen": "https://i.postimg.cc/J4cc7CfJ/conciliarsue-o.jpg"
+  },
+  {
+    "id": 10,
+    "estado": "😫 Fatiga o falta de energía",
+    "consejo": "Prioriza el descanso adecuado, haz pausas regulares durante el día y encuentra actividades que te brinden energía y alegría.",
+    "imagen": "https://i.postimg.cc/mZ77VG2q/fatiga.jpg"
+  },
+  {
+    "id": 11,
+    "estado": "😔 Pérdida de interés",
+    "consejo": "Busca actividades que te apasionen y te hagan sentir motivado, y compártelas con personas afines.",
+    "imagen": "https://i.postimg.cc/MppRWMb2/interes.jpg"
+  },
+  {
+    "id": 12,
+    "estado": "🧠 Dificultad para concentrarse",
+    "consejo": "Crea un entorno libre de distracciones, establece metas pequeñas y realiza pausas frecuentes para mantener la concentración.",
+    "imagen": "https://i.postimg.cc/50CLZh5X/concentrarse.jpg"
+  },
+  {
+    "id": 13,
+    "estado": "😣 Sentimientos de culpa",
+    "consejo": "Encuentra un equilibrio en tu vida y haz actividades que te hagan feliz.",
+    "imagen": "https://i.postimg.cc/fbkxvtJj/culpa.jpg"
+  },
+  {
+    "id": 14,
+    "estado": "🚶 Caminata",
+    "consejo": " Disfruta de una caminata al aire libre para despejar la mente, mejorar la circulación y aumentar los niveles de energía.",
+    "imagen": "https://i.postimg.cc/Y0BYkd8b/caminata.jpg"
+  },
+  {
+    "id": 15,
+    "estado": "🧘‍♀️ Estiramientos",
+    "consejo": "Dedica unos minutos al día para estirar tu cuerpo, relajar los músculos y mejorar la flexibilidad.",
+    "imagen": "https://i.postimg.cc/J03Jhj2m/estirar.jpg"
+  },
+  {
+    "id": 16,
+    "estado": "🏋️‍♀️ Ejercicios de cuerpo completo",
+    "consejo": "Realiza ejercicios que involucren todos los grupos musculares, como entrenamiento con pesas o circuitos de alta intensidad.",
+    "imagen": "https://i.postimg.cc/MGhjbskq/pesocompleto.jpg"
+  },
+  {
+    "id": 17,
+    "estado": "🚴‍♀️ Ciclismo",
+    "consejo": "Sal a dar un paseo en bicicleta para ejercitar el cuerpo, disfrutar del paisaje y liberar endorfinas.",
+    "imagen": "https://i.postimg.cc/QMPcY87L/ciclismo.jpg"
+  },
+  {
+    "id": 18,
+    "estado": "🏊‍♀️ Natación",
+    "consejo": "Sumérgete en la piscina o en el mar y disfruta de los beneficios de un ejercicio de bajo impacto que fortalece todo el cuerpo.",
+    "imagen": "https://i.postimg.cc/QCD9vHxz/natacion.jpg"
+  },
+  {
+    "id": 19,
+    "estado": "🌡️ Dolores físicos inexplicables",
+    "consejo": "Consulta a un profesional de la salud para evaluar tus síntomas y recibir el tratamiento adecuado.",
+    "imagen": "https://i.postimg.cc/nLsDDyP3/dolores.jpg"
+  }
+]

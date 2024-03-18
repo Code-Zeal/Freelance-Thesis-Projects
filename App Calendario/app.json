@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "Nutriperfec",
+    "slug": "app_calendario",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png"
+      },
+      "package": "com.codezeal.nutriperfec",
+      "navigationBar": {
+        "icon": "./assets/icon.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0b8baa5d-ea50-4075-98dc-547464393337"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/0b8baa5d-ea50-4075-98dc-547464393337"
+    },
+    "plugins": [
+      [
+        "expo-calendar",
+        {
+          "calendarPermission": "La app necesita acceder a tu calendario"
+        }
+      ]
+    ]
+  }
+}
