@@ -1,0 +1,163 @@
+@font-face {
+  font-family: KidsFonts;
+  src: url(./font/Smart\ Kids.ttf);
+}
+body {
+  background-image: url("fotos/bg.jpeg");
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-color: #7bc5e8;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 0;
+  font-family: KidsFonts;
+}
+.textContainer {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text {
+  font-size: 80px;
+  font-weight: bold;
+  animation: bounce 1.5s infinite;
+}
+
+@keyframes bounce {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-20px);
+  }
+  60% {
+    transform: translateY(-5px);
+  }
+}
+.linkContainer {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.linkButton {
+  background-color: #b815a0;
+  border: solid #f501ac 6px;
+  border-radius: 50px;
+  padding: 25px 55px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  font-size: xx-large;
+  position: relative;
+  transition: all 1s ease;
+  transform: scale(1);
+}
+
+.link {
+  font-size: larger;
+  font-weight: bold;
+  color: #ffd3fe;
+  text-decoration: none;
+  font-family: KidsFonts;
+}
+
+.linkButton:active {
+  transform: translate(0px, 5px);
+  -webkit-transform: translate(0px, 5px);
+  box-shadow: 0px 1px 0px 0px;
+}
+.linkButton:hover {
+  transform: scale(1.2) perspective(1px);
+}
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0) translateX(0);
+  }
+  50% {
+    transform: translateY(-20px) translateX(20px);
+  }
+}
+
+.flotante1 {
+  position: absolute;
+  animation: float 5s ease-in-out infinite;
+  width: 50px; /* Ajusta el ancho de las caricaturas según tus necesidades */
+  height: auto; /* Ajusta la altura de las caricaturas según tus necesidades */
+  /* Establece la posición inicial de las caricaturas */
+  top: 100px;
+  left: 200px;
+}
+.flotante2 {
+  position: absolute;
+  animation: float 5s ease-in-out infinite;
+  width: 50px; /* Ajusta el ancho de las caricaturas según tus necesidades */
+  height: auto; /* Ajusta la altura de las caricaturas según tus necesidades */
+  /* Establece la posición inicial de las caricaturas */
+  top: 50px;
+  left: 500px;
+}
+.flotante3 {
+  position: absolute;
+  animation: float 5s ease-in-out infinite;
+  width: 100px; /* Ajusta el ancho de las caricaturas según tus necesidades */
+  height: auto; /* Ajusta la altura de las caricaturas según tus necesidades */
+  /* Establece la posición inicial de las caricaturas */
+  top: 500px;
+  left: 900px;
+}
+.flotante4 {
+  position: absolute;
+  animation: float 5s ease-in-out infinite;
+  width: 150px; /* Ajusta el ancho de las caricaturas según tus necesidades */
+  height: auto; /* Ajusta la altura de las caricaturas según tus necesidades */
+  /* Establece la posición inicial de las caricaturas */
+  top: 300px;
+  left: 100px;
+}
+.flotante5 {
+  position: absolute;
+  animation: float 5s ease-in-out infinite;
+  width: 200px; /* Ajusta el ancho de las caricaturas según tus necesidades */
+  height: auto; /* Ajusta la altura de las caricaturas según tus necesidades */
+  /* Establece la posición inicial de las caricaturas */
+  top: 50px;
+  left: 1000px;
+}
+
+/* Para asegurarte de que las caricaturas se muevan por toda la pantalla, puedes ajustar sus valores de posición y animación */
+/* Desplaza cada imagen a lo largo del eje horizontal */
+.flotante:nth-child(1) {
+  animation-delay: 0s;
+  left: 500px; /* Ajusta la posición inicial de la primera caricatura */
+  transform: translateX(
+    -500px
+  ); /* Centra la primera caricatura en el eje horizontal */
+}
+
+/* Desplaza cada imagen a lo largo del eje vertical */
+.flotante:nth-child(2) {
+  animation-delay: 2s;
+  top: 50%; /* Ajusta la posición inicial de la segunda caricatura */
+  transform: translateY(
+    -50%
+  ); /* Centra la segunda caricatura en el eje vertical */
+}

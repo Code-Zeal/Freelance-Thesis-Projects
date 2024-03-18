@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Picture Puzzle</title>
+    <link href="styles.css" rel="stylesheet" />
+    <script src="renderer1-1.js"></script>
+  </head>
+  <body>
+    <audio id="level1" src="level1.mp3" autoplay loop preload="auto"></audio>
+    <audio
+      id="grabSound"
+      src="../../musica/pieceTap.wav"
+      preload="auto"
+    ></audio>
+    <audio
+      draggable="false"
+      id="winSound"
+      src="../../musica/levelCompleted.wav"
+      preload="auto"
+    ></audio>
+    <div id="forPuzzle"></div>
+    <div id="helpContainer">
+      <button id="helpBtn">Ver imagen</button>
+    </div>
+    <div id="adviceContainer">
+      <img draggable="false" src="level1-1.jpeg" alt="imagen" />
+      <button id="closeBtn">Cerrar</button>
+    </div>
+    <div id="winContainer">
+      <h1 id="winText">Puzzle Completado!</h1>
+      <h1 id="timerText"></h1>
+      <button id="nextBtn">Siguiente</button>
+    </div>
+    <div id="levelContainer">
+      <h2 id="levelText">Nivel 1</h2>
+      <h2 id="levelText">1/2</h2>
+    </div>
+    <div id="contador"></div>
+  </body>
+</html>

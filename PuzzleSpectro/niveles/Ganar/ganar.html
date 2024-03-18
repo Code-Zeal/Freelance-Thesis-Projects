@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Picture Puzzle</title>
+    <link href="styles.css" rel="stylesheet" />
+    <script src="renderer.js"></script>
+  </head>
+  <body>
+    <audio id="win" src="ganar.mp3" autoplay loop preload="auto"></audio>
+    <audio
+      id="applause"
+      src="../../musica/applause.wav"
+      autoplay
+      preload="auto"
+    ></audio>
+    <div class="textContainer">
+      <h1 class="text">Felicidades, Ganaste!</h1>
+    </div>
+
+    <div class="linkContainer">
+      <button class="linkButton">
+        <a class="link" href="../../index.html">Volver a inicio</a>
+      </button>
+    </div>
+
+    <div id="boardContainer">
+      <h2>Niveles y tiempos:</h2>
+      <ul id="boardList"></ul>
+    </div>
+  </body>
+</html>
