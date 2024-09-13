@@ -1,0 +1,1172 @@
+{
+  "categories": [
+    {
+      "categoryName": "Logos",
+      "templates": [
+        { 
+          "reqImage": true,
+          "previewImage": "https://i.postimg.cc/pVSHGytJ/1-1.png",
+          "templateImage": "https://i.postimg.cc/6Qzsdp0R/1-2.png",
+          "nameTemplate": "Logo repostería 'Ojo Dulce'",
+          "tags": ["Logo", "pastelería", "Dulce","repostería","ojo","cupcake"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/4dqX93fP/10-1.png",
+          "templateImage": "https://i.postimg.cc/0jSPdqrs/10-2.png",
+          "nameTemplate": "Logo Estética y Spa",
+          "tags": ["Logo", "Estética", "Spa"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/Y2LrwQRs/11-1.png",
+          "templateImage": "https://i.postimg.cc/rF68yzYF/11-2.png",
+          "nameTemplate": "Logo uñas y pestañas corazón fondo rosa",
+          "tags": ["Logo", "uñas", "corazón","nails","lash","pestañas"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/WbMsdjQm/12-1.png",
+          "templateImage": "https://i.postimg.cc/cL00Y2Sp/12-2.png",
+          "nameTemplate": "Logo uñas y pestañas circulo",
+          "tags": ["Logo", "uñas", "corazón","nails","lash","pestañas","circulo"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/13BPKBRf/13-1.png",
+          "templateImage": "https://i.postimg.cc/g00pthr4/13-2.png",
+          "nameTemplate": "Logo centro de belleza",
+          "tags": ["Logo", "centro","belleza", "beautiful"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/7LQkFL24/14-1.png",
+          "templateImage": "https://i.postimg.cc/Y9GHMw6W/14-2.png",
+          "nameTemplate": "Logo barbería fondo blanco",
+          "tags": ["Logo", "blanco", "negro"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/d1bK0S6S/15-1.png",
+          "templateImage": "https://i.postimg.cc/SRcbY7tQ/15-2.png",
+          "nameTemplate": "Logo barbería circular",
+          "tags": ["Logo", "blanco", "negro","circulo"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/Mp7JpDf9/2-1.png",
+          "templateImage": "https://i.postimg.cc/CLfVWYhT/2-2.png",
+          "nameTemplate": "Logo repostería cupcake de calidad",
+          "tags": ["Logo", "cupcake", "calidad","pastelería"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/DwkKhD0W/3-1.png",
+          "templateImage": "https://i.postimg.cc/5tfdYCwb/3-2.png",
+          "nameTemplate": "Logo repostería 'La Frida'",
+          "tags": ["Logo", "cupcake", "calidad","pastelería"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/PxFBRV05/4-1.png",
+          "templateImage": "https://i.postimg.cc/qR7PQHbF/4-2.png",
+          "nameTemplate": "Logo comidas rápidas alta pinta",
+          "tags": ["Logo", "comida", "rápida","fast food","hamburguesa"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/C5BWTHVH/5-1.png",
+          "templateImage": "https://i.postimg.cc/RC203gqm/5-2.png",
+          "nameTemplate": "Logo comidas rápidas LED",
+          "tags": ["Logo", "comida", "rápida","LED"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/XqRtVGjM/6-1.png",
+          "templateImage": "https://i.postimg.cc/gcxJkCz4/6-2.png",
+          "nameTemplate": "Logo Joyería VANDIERE",
+          "tags": ["Logo", "Joyas", "beautiful","joyería"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/GhYmvvsy/7-1.png",
+          "templateImage": "https://i.postimg.cc/K82vf4ns/7-2.png",
+          "nameTemplate": "Logo Joyería alta pinta",
+          "tags": ["Logo", "Joyas", "beautiful","joyería"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/4xQ4SZP4/8-1.png",
+          "templateImage": "https://i.postimg.cc/Jh77wgYN/8-2.png",
+          "nameTemplate": "Logo tienda de ropa alta pinta",
+          "tags": ["Logo", "Ropa", "beautiful","rosa"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/438fX5jr/9-1.png",
+          "templateImage": "https://i.postimg.cc/63y9qZXT/9-2.png",
+          "nameTemplate": "Logo SH Moda",
+          "tags": ["Logo", "SH", "Moda","Ropa"]
+        }
+        
+      ]
+    },
+    {
+      "categoryName": "Poster",
+      "templates": [
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/8z5WXfZ9/1-1.png",
+          "templateImage": "https://i.postimg.cc/fRrdGWFL/1-2.png",
+          "nameTemplate": "Horario de verano",
+          "tags": ["horario", "poster", "verano","escolar"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/x82M6sZ3/3-1.png",
+          "templateImage": "https://i.postimg.cc/VvWMpqQQ/3-2.png",
+          "nameTemplate": "Descuentos del mes",
+          "tags": ["descuentos", "mes"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/qMp2n5yk/4-1.png",
+          "templateImage": "https://i.postimg.cc/43Y6yHtV/4-2.png",
+          "nameTemplate": "Producto fondo rosado",
+          "tags": ["producto", "rosa","precio"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/0Qm7dgVN/5-1.png",
+          "templateImage": "https://i.postimg.cc/g2SyGHwG/5-2.png",
+          "nameTemplate": "Tendencias de hoy",
+          "tags": ["tendencias", "hoy","azul"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/s2bphf98/6-1.png",
+          "templateImage": "https://i.postimg.cc/YCqfcsCX/6-2.png",
+          "nameTemplate": "Estilos, nuevas tendencias",
+          "tags": ["tendencias", "nuevo","moda", "estilo"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/1RwKDFdK/7-1.png",
+          "templateImage": "https://i.postimg.cc/X7gczb4G/7-2.png",
+          "nameTemplate": "Día mundial de la tierra",
+          "tags": ["tierra", "planeta","ecológico", "reciclaje","verde","festivo","celebración"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/X7WkLJS6/8-1.png",
+          "templateImage": "https://i.postimg.cc/8cRBD8vY/8-2.png",
+          "nameTemplate": "Día mundial de la salud mental",
+          "tags": ["salud", "cerebro","psicología", "medicina","rosado","festivo","celebración"]
+        },
+        {
+          "reqImage": true,
+          "previewImage": "https://i.postimg.cc/HLHPs5PY/2-1.png",
+          "templateImage": "https://i.postimg.cc/g0DtwJfv/2-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        }
+        ,
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/pVkN9ZCT/1-1.png",
+          "templateImage": "https://i.postimg.cc/yN0t7XW7/1-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["pasteles", "cupcake", "gelatinas","letras"]
+                },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/MGY5ssvf/10-1.png",
+          "templateImage": "https://i.postimg.cc/268wg4Zc/10-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["visítanos", "ubicación", "dirección","barbero","barbería"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/wBzFQKTd/11-1.png",
+          "templateImage": "https://i.postimg.cc/FH3DSFvZ/12-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["visítanos", "ubicación", "dirección","barbero","barbería","turno"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/PJ0QL9F9/13-1.png",
+          "templateImage": "https://i.postimg.cc/gJSDpnyY/13-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["visítanos", "ubicación", "dirección","barbero","barbería","turno","horario"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/D0Scwn51/14-1.png",
+          "templateImage": "https://i.postimg.cc/ZYQcDvKH/14-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["cita", "uñas", "reservar","turno"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/pXnZNVmH/15-1.png",
+          "templateImage": "https://i.postimg.cc/JzVQRwXB/15-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["visítanos", "ubicación", "dirección","uñas","turno","horario"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/mrTNFQ8L/16-1.png",
+          "templateImage": "https://i.postimg.cc/Mp7mTs03/16-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/B6VxyRsb/17-1.png",
+          "templateImage": "https://i.postimg.cc/j55HMtpB/17-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/3Nxcjs1w/2-1.png",
+          "templateImage": "https://i.postimg.cc/KzNWMGnV/2-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/cCk5FFkB/3-1.png",
+          "templateImage": "https://i.postimg.cc/RVqYWzqs/3-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/yY5b9rZV/4-1.png",
+          "templateImage": "https://i.postimg.cc/MpQrYb71/4-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/L4x74s4g/5-1.png",
+          "templateImage": "https://i.postimg.cc/q7cbPJZR/5-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/76xsDFpN/6-1.png",
+          "templateImage": "https://i.postimg.cc/XJQ2v2W6/6-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/pdMcchC4/7-1.png",
+          "templateImage": "https://i.postimg.cc/6qqM4d62/7-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/8kXKQnwh/8-1.png",
+          "templateImage": "https://i.postimg.cc/HnNBwVjS/8-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/c4KDsM5P/9-1.png",
+          "templateImage": "https://i.postimg.cc/nc63Mjyr/9-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": true,
+          "previewImage": "https://i.postimg.cc/dVyZMrn8/1-1.png",
+          "templateImage": "https://i.postimg.cc/QNfTcXHW/1-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": true,
+          "previewImage": "https://i.postimg.cc/tCfnm2dq/2-1.png",
+          "templateImage": "https://i.postimg.cc/bNd2TKtV/2-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": true,
+          "previewImage": "https://i.postimg.cc/gJdZHjV3/3-1.png",
+          "templateImage": "https://i.postimg.cc/VLHXPYwc/3-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": true,
+          "previewImage": "https://i.postimg.cc/6pkRTYTj/4-1.png",
+          "templateImage": "https://i.postimg.cc/kGJWqGD7/4-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": true,
+          "previewImage": "https://i.postimg.cc/QxMczFRb/5-1.png",
+          "templateImage": "https://i.postimg.cc/66cdzr1q/5-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": true,
+          "previewImage": "https://i.postimg.cc/tJBWTbVW/6-1.png",
+          "templateImage": "https://i.postimg.cc/V6BXxnf7/6-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        }
+      ]
+    },
+    {
+      "categoryName": "Avisos",
+      "templates": [
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/hjKkYMTQ/1-1.png",
+          "templateImage": "https://i.postimg.cc/W3SBcrwW/1-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/P5GFc2kf/10-1.png",
+          "templateImage": "https://i.postimg.cc/3xgbHmKX/10-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/0NPX5jQL/11-1.png",
+          "templateImage": "https://i.postimg.cc/rmphWH5j/11-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/HxP6tt2g/12-1.png",
+          "templateImage": "https://i.postimg.cc/sxQwHZ6Z/12-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/WpdVcWx0/13-1.png",
+          "templateImage": "https://i.postimg.cc/MZgS608N/13-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/cLSGYsCc/14-1.png",
+          "templateImage": "https://i.postimg.cc/RZL5Ljnx/14-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/c19pDRH6/2-1.png",
+          "templateImage": "https://i.postimg.cc/pr63pH7K/2-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/nrz6FzdH/3-1.png",
+          "templateImage": "https://i.postimg.cc/X7rTtrGL/3-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/43gqKw82/4-1.png",
+          "templateImage": "https://i.postimg.cc/fbfFYXpz/4-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/WbxQVs0v/5-1.png",
+          "templateImage": "https://i.postimg.cc/bwb4N4R2/5-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/tTrMMb98/6-1.png",
+          "templateImage": "https://i.postimg.cc/vTkSGvgz/6-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/V6shgvPj/7-1.png",
+          "templateImage": "https://i.postimg.cc/vHxN3CkS/7-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/ZnCMkQRn/8-1.png",
+          "templateImage": "https://i.postimg.cc/tRMcd9Sx/8-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/1zBC8SV4/9-1.png",
+          "templateImage": "https://i.postimg.cc/fyG5GTpq/9-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        }
+      ]
+    },
+    {
+      "categoryName": "Menus",
+      "templates": [
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/QtvFcTcY/1-1.png",
+          "templateImage": "https://i.postimg.cc/gkFwJ3zn/1-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/QxQFWVCS/2-1.png",
+          "templateImage": "https://i.postimg.cc/05JMPVqT/2-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/8zTjdDrG/3-1.png",
+          "templateImage": "https://i.postimg.cc/t4D72fhx/3-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/tgTJf55m/4-1.png",
+          "templateImage": "https://i.postimg.cc/YSs0wWD2/4-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/kgjXxSmN/5-1.png",
+          "templateImage": "https://i.postimg.cc/Jz7zDq94/5-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/Pxvxf50W/6-1.png",
+          "templateImage": "https://i.postimg.cc/gj90xPPf/6-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        }
+      ]
+    },{
+      "categoryName": "Ofertas",
+      "templates": [
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/ZRst1tqF/1-1.png",
+          "templateImage": "https://i.postimg.cc/L5qKSCYd/1-2.png",
+          "nameTemplate": "3 productos fondo rosa",
+          "tags": ["3", "productos", "rosa","oferta"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/Xv0xkrkJ/2-1.png",
+          "templateImage": "https://i.postimg.cc/4NqWnLKp/2-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/zGh0hCW6/3-1.png",
+          "templateImage": "https://i.postimg.cc/2y3xShrH/3-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/ncjk84dr/4-1.png",
+          "templateImage": "https://i.postimg.cc/TYzcTKS9/4-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/tTq588fG/5-1.png",
+          "templateImage": "https://i.postimg.cc/260wY2Rb/5-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/cCjBgCJd/6-1.png",
+          "templateImage": "https://i.postimg.cc/xjFRFx3B/6-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/cLfBCsGN/7-1.png",
+          "templateImage": "https://i.postimg.cc/YSkfmJtL/7-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/0NfGGcNW/8-1.png",
+          "templateImage": "https://i.postimg.cc/yd8mLcgV/8-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/KzpnwjBt/9-1.png",
+          "templateImage": "https://i.postimg.cc/hvJ9Bn16/9-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        }
+      ]
+    },{
+      "categoryName": "Catálogos",
+      "templates": [
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/SQ5bdh3m/1-1.png",
+          "templateImage": "https://i.postimg.cc/mgWfxSTq/1-2.png",
+          "nameTemplate": "3 productos, cuadrado con detalles",
+          "tags": ["3", "productos", "cuadrado","información"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/YCNctm9S/2-1.png",
+          "templateImage": "https://i.postimg.cc/m2Hf6nWC/2-2.png",
+          "nameTemplate": "2 productos con fondo rosa",
+          "tags": ["2", "productos", "rosa","información"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/d11gRH97/3-1.png",
+          "templateImage": "https://i.postimg.cc/QMj2Cx9J/3-2.png",
+          "nameTemplate": "Catálogo de temporada",
+          "tags": ["Catálogo", "temporada", "portada"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/LXbwxtyx/4-1.png",
+          "templateImage": "https://i.postimg.cc/g04fZF3F/4-2.png",
+          "nameTemplate": "Portada catálogo de temporada rosa",
+          "tags": ["Catálogo", "temporada", "portada","rosa"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/NGyjBpwf/5-1.png",
+          "templateImage": "https://i.postimg.cc/0jK3FzFP/5-2.png",
+          "nameTemplate": "Producto nueva colección",
+          "tags": ["producto", "nuevo", "colección"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/zD9XBKJw/6-1.png",
+          "templateImage": "https://i.postimg.cc/9z3ShWHT/6-2.png",
+          "nameTemplate": "Producto nueva colección dos tonos",
+          "tags": ["producto", "nuevo", "colección", "tonos"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/W4bsK7nV/7-1.png",
+          "templateImage": "https://i.postimg.cc/NfmGrFM3/7-2.png",
+          "nameTemplate": "Nueva temporada, colección",
+          "tags": ["producto", "nuevo", "colección", "tonos"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/0yC8c47Z/8-1.png",
+          "templateImage": "https://i.postimg.cc/L8S9kSgn/8-2.png",
+          "nameTemplate": "3 productos minimalista",
+          "tags": ["producto", "nuevo", "colección", "tonos"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/qRm2Cq7z/1-1.png",
+          "templateImage": "https://i.postimg.cc/K8XBTdmr/1-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/HxKVgyx4/10-1.png",
+          "templateImage": "https://i.postimg.cc/zB3V6jJG/10-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/NLvFyvRK/11-1.png",
+          "templateImage": "https://i.postimg.cc/SRMjNxY0/11-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/CMzPYBJZ/12-1.png",
+          "templateImage": "https://i.postimg.cc/Kcw9YGs0/12-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/wMZJ0rLz/2-1.png",
+          "templateImage": "https://i.postimg.cc/brsk0PGL/2-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/CMQjhRt2/3-1.png",
+          "templateImage": "https://i.postimg.cc/6QtZjn28/3-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/L6gjnHF8/4-1.png",
+          "templateImage": "https://i.postimg.cc/RZcfLXFr/4-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/63QvwKhw/5-1.png",
+          "templateImage": "https://i.postimg.cc/bvgtKrk3/5-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/bYWtXKSc/6-1.png",
+          "templateImage": "https://i.postimg.cc/CL8fwmbZ/6-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/tTmV4cr6/7-1.png",
+          "templateImage": "https://i.postimg.cc/rsB0Sr2F/7-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/Z5hvnpLw/8-1.png",
+          "templateImage": "https://i.postimg.cc/VkBrCvGm/8-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/Zqb9Fm23/9-1.png",
+          "templateImage": "https://i.postimg.cc/9fLDLSHk/9-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        }
+      ]
+    },{
+      "categoryName": "Folletos",
+      "templates": [
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/3NdbcWfv/1-1.png",
+          "templateImage": "https://i.postimg.cc/VvpHQ12H/1-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/j5CGG8L2/10-1.png",
+          "templateImage": "https://i.postimg.cc/YSd5Dc2T/10-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/yd5wBFZP/11-1.png",
+          "templateImage": "https://i.postimg.cc/L51GsnkM/11-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/dQkb6SbS/12-1.png",
+          "templateImage": "https://i.postimg.cc/ryBvPNcy/12-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/4NHSv79C/2-1.png",
+          "templateImage": "https://i.postimg.cc/K8Xs0GP1/2-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/jqF1JQCQ/3-1.png",
+          "templateImage": "https://i.postimg.cc/FHjCqMpD/3-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/Xv410sD3/4-1.png",
+          "templateImage": "https://i.postimg.cc/43PL4prc/4-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/xCdsXc24/5-1.png",
+          "templateImage": "https://i.postimg.cc/90RJBKzP/5-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/W3f5gTpb/6-1.png",
+          "templateImage": "https://i.postimg.cc/0jTZXnJT/6-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/wx1pPBm2/7-1.png",
+          "templateImage": "https://i.postimg.cc/cLSGrM5k/7-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/L4GpMMkp/8-1.png",
+          "templateImage": "https://i.postimg.cc/L6fM90vZ/8-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/2S7Rvbsk/9-1.png",
+          "templateImage": "https://i.postimg.cc/XvNMgNWw/9-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        }
+      ]
+    },{
+      "categoryName": "Tarjetas",
+      "templates": [
+        
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/1XPrBqZB/1-1.png",
+          "templateImage": "https://i.postimg.cc/T19q43d6/1-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/htxhD3mJ/10-1.png",
+          "templateImage": "https://i.postimg.cc/6QXqyLVM/10-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/vmr1zSHR/11-1.png",
+          "templateImage": "https://i.postimg.cc/tT9smtYs/11-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/gJ4x9XZN/12-1.png",
+          "templateImage": "https://i.postimg.cc/rsmKqVGc/12-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/8kK7tvDC/13-1.png",
+          "templateImage": "https://i.postimg.cc/FzB1RMGS/13-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/vHCcdd4F/14-1.png",
+          "templateImage": "https://i.postimg.cc/MKnv4GKm/14-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/3wFRp4nY/15-1.png",
+          "templateImage": "https://i.postimg.cc/DZfzcvMs/15-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/0QtyWTT4/16-1.png",
+          "templateImage": "https://i.postimg.cc/PJPrB6h5/16-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/T24PrXqL/17-1.png",
+          "templateImage": "https://i.postimg.cc/mkJ2RQ2N/17-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/nc9h2w0d/18-1.png",
+          "templateImage": "https://i.postimg.cc/t40CMtc9/18-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/q74BkB0Y/19-1.png",
+          "templateImage": "https://i.postimg.cc/vZWHFxRf/19-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/5N4mFLgN/2-1.png",
+          "templateImage": "https://i.postimg.cc/59q30nwR/2-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/3w18WMxw/20-1.png",
+          "templateImage": "https://i.postimg.cc/265zZH17/20-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/bNm90rV0/3-1.png",
+          "templateImage": "https://i.postimg.cc/vZDL0yCJ/3-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/5tC5M34p/4-1.png",
+          "templateImage": "https://i.postimg.cc/2SJdJJDV/4-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/wv5h1jsm/5-1.png",
+          "templateImage": "https://i.postimg.cc/4yJpVRzF/5-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/JhZXFzx2/6-1.png",
+          "templateImage": "https://i.postimg.cc/0QvS11H2/6-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/kXgx59M2/7-1.png",
+          "templateImage": "https://i.postimg.cc/qBLs0grf/7-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/vZp9XVrn/8-1.png",
+          "templateImage": "https://i.postimg.cc/nV0Dg5Kp/8-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/7YtSGcbm/8-1.png",
+          "templateImage": "https://i.postimg.cc/nrcQMYJy/8-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/pLn59LwL/9-1.png",
+          "templateImage": "https://i.postimg.cc/SKF2cp47/9-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        }
+      ]
+    },{
+      "categoryName": "Flyers",
+      "templates": [
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/brwhgQtH/1-1.png",
+          "templateImage": "https://i.postimg.cc/fyqhrJ74/1-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/WzhytSZK/10-1.png",
+          "templateImage": "https://i.postimg.cc/KjwHTLrY/10-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/cH12GdLd/11-1.png",
+          "templateImage": "https://i.postimg.cc/NMNVgZKm/11-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/02rvJ0x9/2-1.png",
+          "templateImage": "https://i.postimg.cc/rFbkGRFx/2-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/05VxQHTt/3-1.png",
+          "templateImage": "https://i.postimg.cc/2SZf0jVJ/3-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/bvffWXnv/4-1.png",
+          "templateImage": "https://i.postimg.cc/DzQ3KCQP/4-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/KcpSF3Tw/5-1.png",
+          "templateImage": "https://i.postimg.cc/wTtKBxcv/5-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/TwRM2rCM/6-1.png",
+          "templateImage": "https://i.postimg.cc/V6DyJdVS/6-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/mk50SKRB/7-1.png",
+          "templateImage": "https://i.postimg.cc/prTwzRws/7-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/HsFq8GBt/8-1.png",
+          "templateImage": "https://i.postimg.cc/d0jpfhvW/8-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/DzTR5rVJ/9-1.png",
+          "templateImage": "https://i.postimg.cc/mgM0QdnW/9-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/442xGTY4/2-1.png",
+          "templateImage": "https://i.postimg.cc/WzyNw0Bq/2-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/J007Xp2W/1-1.png",
+          "templateImage": "https://i.postimg.cc/DyWyyYGr/1-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        }
+      ]
+    },{
+      "categoryName": "Collage",
+      "templates": [
+        
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/BvRpMsPh/1-1.png",
+          "templateImage": "https://i.postimg.cc/zBWjQMnq/1-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/QM71N7Vb/10-1.png",
+          "templateImage": "https://i.postimg.cc/dVpGK6Q3/10-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/j2x7hkcg/11-1.png",
+          "templateImage": "https://i.postimg.cc/HxC5rLyC/11-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/3r1pwYrP/12-1.png",
+          "templateImage": "https://i.postimg.cc/26FWhfQL/12-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/DyzGJH8m/13-1.png",
+          "templateImage": "https://i.postimg.cc/cCF8kM5s/13-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/xTFzK5z5/14-1.png",
+          "templateImage": "https://i.postimg.cc/MpCfLGtj/14-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/0N7K1qHX/15-1.png",
+          "templateImage": "https://i.postimg.cc/nhjQTmKJ/15-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/B6g8tB3x/16-1.png",
+          "templateImage": "https://i.postimg.cc/85DJ1n2p/16-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/RCg6BdXm/17-1.png",
+          "templateImage": "https://i.postimg.cc/D0wSG4fR/17-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/L6hq6Pb1/18-1.png",
+          "templateImage": "https://i.postimg.cc/D0p8Pf80/18-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/x1zcL2Yj/19-1.png",
+          "templateImage": "https://i.postimg.cc/WbKdD4Bf/19-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/PrKM018v/2-1.png",
+          "templateImage": "https://i.postimg.cc/Fz4ZXZZ3/2-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/W4mzfwhQ/20-1.png",
+          "templateImage": "https://i.postimg.cc/8CgsH0PR/20-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/k4xQsSm4/3-1.png",
+          "templateImage": "https://i.postimg.cc/tJNzqxSf/3-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/SNmrZgjp/4-1.png",
+          "templateImage": "https://i.postimg.cc/c1RhMpxm/4-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/NjzkjYDg/5-1.png",
+          "templateImage": "https://i.postimg.cc/SxsG4jWT/5-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/T2JjWn0N/6-1.png",
+          "templateImage": "https://i.postimg.cc/TP5qySNn/6-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/m2ZY3h6L/7-1.png",
+          "templateImage": "https://i.postimg.cc/50c583DT/7-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/fyCxnhkQ/8-1.png",
+          "templateImage": "https://i.postimg.cc/D0nqMzvc/8-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        },
+        {
+          "reqImage": false,
+          "previewImage": "https://i.postimg.cc/L8nj7wpG/9-1.png",
+          "templateImage": "https://i.postimg.cc/L6yzxRrz/9-2.png",
+          "nameTemplate": "Nuevo producto",
+          "tags": ["Nuevo", "producto", "fondo","letras"]
+        }
+      ]
+    }
+  ]
+}
