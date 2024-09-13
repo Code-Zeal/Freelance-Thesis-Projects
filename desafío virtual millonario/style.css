@@ -1,0 +1,461 @@
+@font-face {
+  font-family: 'NerkoOne-Regular';
+  src: url('NerkoOne-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+  }
+
+html{
+  overflow-y: hidden;
+  overflow-x: hidden;
+  background: #7f7fd5; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #7f7fd5, #86a8e7, #91eae4); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #7f7fd5, #86a8e7, #91eae4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: 'Courier New', Courier, monospace;
+}
+
+ @keyframes wobble-ver-right {
+  0%,
+  100% {
+    transform: translateY(0) rotate(0);
+    transform-origin: 50% 50%;
+  }
+  15% {
+    transform: translateY(-30px) rotate(6deg);
+  }
+  30% {
+    transform: translateY(15px) rotate(-6deg);
+  }
+  45% {
+    transform: translateY(-15px) rotate(3.6deg);
+  }
+  60% {
+    transform: translateY(9px) rotate(-2.4deg);
+  }
+  75% {
+    transform: translateY(-6px) rotate(1.2deg);
+  }
+}
+
+ @keyframes heartbeat {
+  from {
+    transform: scale(1);
+    transform-origin: center center;
+    animation-timing-function: ease-out;
+  }
+  10% {
+    transform: scale(0.91);
+    animation-timing-function: ease-in;
+  }
+  17% {
+    transform: scale(0.98);
+    animation-timing-function: ease-out;
+  }
+  33% {
+    transform: scale(0.87);
+    animation-timing-function: ease-in;
+  }
+  45% {
+    transform: scale(1);
+    animation-timing-function: ease-out;
+  }
+}
+
+ @keyframes wobble-hor-top {
+  0%,
+  100% {
+    transform: translateX(0%);
+    transform-origin: 50% 50%;
+  }
+  15% {
+    transform: translateX(-30px) rotate(6deg);
+  }
+  30% {
+    transform: translateX(15px) rotate(-6deg);
+  }
+  45% {
+    transform: translateX(-15px) rotate(3.6deg);
+  }
+  60% {
+    transform: translateX(9px) rotate(-2.4deg);
+  }
+  75% {
+    transform: translateX(-6px) rotate(1.2deg);
+  }
+}
+body{
+  width: 100vw !important;
+  height: 100vh !important;
+  padding: 0 !important;
+}
+
+.home {
+  background-image: url(assets/Home.jpg);
+  width: 100vw !important;
+  height: 100vh !important;
+  padding: 0 !important;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.quest-icon{
+  position: absolute;
+  top: 18vh;
+  left: 28vw;
+  scale: 70%;
+	animation: wobble-hor-top 2s both;
+  animation-iteration-count: infinite;
+
+}
+.dollar-icon{
+  position: absolute;
+  top: 65vh;
+  left: 60vw;
+  scale: 70%;
+	animation: wobble-ver-right 2s both;
+  animation-iteration-count: infinite;
+
+}
+.pc-icon{
+  position: absolute;
+  top: 0px;
+  left: 68vw;
+  scale: 90%;
+  animation: heartbeat 2s ease-in-out infinite both;
+  animation-iteration-count: infinite;
+
+}
+.button-home{
+  cursor: pointer;
+  position: absolute;
+  top: 65vh;
+  left: 39vw;
+  scale: 70%;
+  background-color: transparent;
+  border: none;
+}
+.button-home:hover{
+  scale: 72%;
+}
+.button-icon{
+ width: fit-content;
+ height: fit-content;
+}
+
+.home {
+  text-align: center;
+}
+
+.screen {
+  display: none;
+}
+
+.active {
+  display: flex;
+  border: 2px solid black;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  width: 90vw;
+  height: 90vh;
+  top: 5vh;
+  left: 5vw;
+  background-color: white;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+
+}
+.topInformation{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  text-align: center;
+}
+.comodines{
+  display: flex;
+  justify-content: center;
+  gap: 10%;
+  align-items: center;
+  width: 100%;
+  text-align: center;
+}
+
+.comodines .cincuenta{
+  background-color: rgb(137,231,239);
+  color: rgb(0, 0, 0);
+  padding: 0.5vw;
+  font-size: large;
+  width: 15%;
+  font-weight: 700;
+  border: 2px solid black;
+  border-radius: 0.5vw;
+}
+.comodines .pista{
+  border-radius: 0.5vw;
+  background-color: rgb(137,231,239);
+  color: rgb(0, 0, 0);
+  padding: 0.5vw;
+  font-size: large;
+  font-weight: 700;
+  width: 15%;
+  border: 2px solid black;
+}
+
+.comodines .cincuenta:hover:enabled{
+  cursor: pointer;
+  scale: 105%;
+}
+.comodines .pista:hover:enabled{
+  cursor: pointer;
+  scale: 105%;
+}
+.comodines .cincuenta:disabled{
+  cursor: not-allowed;
+  background: #28676d;
+}
+.comodines .pista:disabled{
+  cursor: not-allowed;
+  background: #28676d;
+  
+
+}
+
+.topInformation .point{
+  width: 20%;
+  font-size: 1.5vw;
+}
+
+.points{
+  font-weight: 800;
+}
+.topInformation .time{
+  width: 20%;
+  font-size: 1.5vw;
+}
+.timer{
+  font-weight: 800;
+}
+.topInformation h1{
+  width: 30%;
+  font-size: 3vw;
+}
+
+.answers{
+  width: 60%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  
+}
+
+@media (min-width: 768px) {
+  .answers button {
+    padding: .75rem 3rem;
+    font-size: 1.25rem;
+  }
+}
+.answers button{
+  background-color: #7f7fd5;
+  border: 0 solid #E5E7EB;
+  box-sizing: border-box;
+  color: #000000;
+  display: flex;
+  font-family: ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 700;
+  justify-content: center;
+  line-height: 1.75rem;
+  padding: .75rem 1.65rem;
+  position: relative;
+  text-align: center;
+  text-decoration: none #000000 solid;
+  text-decoration-thickness: auto;
+  width: 45%;
+  max-width: 460px;
+  position: relative;
+  cursor: pointer;
+  margin-top: 20px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+
+
+}
+.answers button:hover:enabled{
+ cursor: pointer; 
+ scale: 105%;
+
+}
+.answers button:after {
+  content: '';
+  position: absolute;
+  border: 1px solid #000000;
+  bottom: 4px;
+  left: 4px;
+  width: calc(100% - 1px);
+  height: calc(100% - 1px);
+}
+.answers button:hover:after {
+  bottom: 2px;
+  left: 2px;
+}
+.answers button:focus {
+  outline: 0;
+}
+.answers button:disabled{
+  background-color: #333372;
+  color: rgb(116, 116, 116);
+
+
+}
+
+
+@media (min-width: 768px) {
+  .button-blue {
+    padding: .75rem 3rem;
+    font-size: 1.25rem;
+  }
+}
+.button-blue{
+  background-color: #90e9e4;
+  border: 0 solid #E5E7EB;
+  box-sizing: border-box;
+  color: #000000;
+  display: flex;
+  font-family: ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 700;
+  justify-content: center;
+  line-height: 1.75rem;
+  padding: .75rem 1.65rem;
+  position: relative;
+  text-align: center;
+  text-decoration: none #000000 solid;
+  text-decoration-thickness: auto;
+  width: 20%;
+  max-width: 460px;
+  position: relative;
+  cursor: pointer;
+  margin-top: 20px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+
+
+}
+.button-blue:hover:enabled{
+ cursor: pointer; 
+ scale: 105%;
+
+}
+.button-blue:after {
+  content: '';
+  position: absolute;
+  border: 1px solid #000000;
+  bottom: 4px;
+  left: 4px;
+  width: calc(100% - 1px);
+  height: calc(100% - 1px);
+}
+.button-blue:hover:after {
+  bottom: 2px;
+  left: 2px;
+}
+.button-blue:focus {
+  outline: 0;
+}
+.button-blue:disabled{
+  background-color: #1b5058;
+  color: rgb(116, 116, 116);
+
+}
+.pregunta{
+  font-size: 3vw;
+  width: 100%;
+  text-align: center;
+}
+#dato-curioso{
+  position: absolute;
+  display: none;
+  width: 80vw;
+  height: 80vh;
+  left: 10vw;
+  top: 10vh;
+  z-index: 999999;
+  background-color: #fff;
+  box-shadow: 15px 15px 52px 15px rgba(0,0,0,1);
+  font-size: x-large;
+  border-radius: 1vw;
+  color: black; 
+  font-weight: 800;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-left: 2vw;
+  padding-right: 2vw;
+}
+#pista {
+  position: absolute;
+  display: none;
+  width: 60vw;
+  height: 60vh;
+  left: 20vw;
+  top: 20vh;
+  z-index: 999999;
+  background-color: #fff;
+  box-shadow: 15px 15px 52px 15px rgba(0,0,0,1);
+  font-size: x-large;
+  border-radius: 1vw;
+  color: black; 
+  font-weight: 800;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+#closePista{
+  background-color: rgb(165, 2, 2);
+  color: white;
+  border-radius: 100%;
+  right: 2vw;
+  top: 4vh;
+  position: absolute;
+  font-size: 1.3vw;
+  width: 35px;
+  height: 35px;
+}
+#closePista:hover{
+  cursor: pointer;
+  scale: 120%;
+}
+
+@property --percentage {
+  initial-value: 0%;
+  inherits: false;
+  syntax: "<percentage>";
+}
+
+.chart {
+  background: conic-gradient(#90e9e4 var(--percentage), white 0);
+  border-radius: 50%;
+  width: 10vmin;
+  height: 10vmin;
+  animation: timer 20s infinite linear;
+}
+
+@keyframes timer {
+  to {
+    --percentage: 100%;
+  }
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+  display: grid;
+  place-items: center;
+  box-sizing: border-box;
+  padding: 2rem;
+}
