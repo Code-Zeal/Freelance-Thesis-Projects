@@ -1,0 +1,23 @@
+//Ready to use color-schemes - uncomment line to turn-on a scheme.
+
+// dark-brown:
+//$theme-color: #31261e;
+//orange:
+//$theme-color: #f90;
+//pink:
+//$theme-color: #ffa3c3;
+//purple:
+//$theme-color: #8246d9;
+//dark blue:
+$theme-color: #050134;
+//green
+//$theme-color: #2e7a39;
+
+@import '~bootstrap';
+
+@import 'functions/stripUnits';
+@import 'mixins/swiperSlideHeight';
+@import 'mixins/fluidType';
+
+@import 'components/index';
+

@@ -1,0 +1,111 @@
+.mars-logo-row {
+	&__container {
+		align-items: center;
+		display: flex;
+		flex-direction: row;
+		gap: 20px;
+		justify-content: space-between;
+		min-height: 100px;
+	}
+
+	&__logo-wrapper {
+		margin: 0;
+	}
+
+	&__logo {
+		display: inline-block;
+		margin: 0;
+		text-decoration: none;
+		vertical-align: middle;
+
+		span {
+			color: #000;
+			font-family: 'Fira Sans';
+			font-size: 32px;
+			font-weight: 900;
+			white-space: nowrap;
+
+			@include media-breakpoint-up(sm) {
+				font-size: 36px;
+			}
+		}
+
+		img {
+			display: inline-block;
+			margin-bottom: 10px;
+			margin-top: 10px;
+
+			max-width: 180px;
+
+			@include media-breakpoint-up(sm) {
+				max-width: 300px;
+			}
+		}
+	}
+
+	&__welcome {
+		color: $front-mars-top-nav-txt-color;
+		font-size: 0.95rem;
+
+		@include media-breakpoint-down(md) {
+			display: none;
+		}
+	}
+
+	.cart-header {
+		display: flex;
+		padding: 0;
+		position: relative;
+		text-decoration: none;
+
+		@include media-breakpoint-down(md) {
+			display: none;
+		}
+
+		&__total {
+			display: none;
+		}
+
+		&__qty {
+			align-items: center;
+			background: $front-mars-top-nav-bg;
+			border-radius: 0;
+			color: $front-mars-top-nav-txt-color;
+			display: inline-flex;
+			font-weight: 400;
+			height: 50px;
+			justify-content: center;
+			position: static;
+			width: 50px;
+		}
+
+		&:hover {
+			.cart-header__qty {
+				background: $front-mars-top-nav-bg;
+			}
+		}
+	}
+
+	&__cart-icon {
+		align-items: center;
+		background: $theme-color;
+		color: $theme-contrast-color;
+		display: inline-flex;
+		height: 50px;
+		justify-content: center;
+		width: 50px;
+	}
+
+	&__hamburger {
+		margin: 0 0 0 20px;
+
+		@include media-breakpoint-up(md) {
+			display: none;
+		}
+	}
+
+	&__at-right {
+		align-items: center;
+		display: flex;
+	}
+}

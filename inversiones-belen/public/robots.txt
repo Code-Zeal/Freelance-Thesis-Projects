@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+Host: https://front-inversiones-belen.vercel.app
+Sitemap: https://front-inversiones-belen.vercel.app/sitemap.xml

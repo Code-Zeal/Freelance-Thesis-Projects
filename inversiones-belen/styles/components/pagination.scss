@@ -1,0 +1,13 @@
+.pagination {
+	.page-link {
+		color: $front-link-color;
+	}
+
+	.active {
+		.page-link {
+			background-color: $btn-action-bg;
+			border-color: $btn-action-border;
+			color: $btn-action-color;
+		}
+	}
+}
