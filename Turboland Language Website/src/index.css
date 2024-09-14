@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: #fff;
+  color: black;
+}
+body, html {
+  margin: 0;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+  cursor: pointer;
+}
