@@ -1,0 +1,71 @@
+#mainLetterSoup{
+  height: 100vh;
+  width: 100vw;
+  background-color: #443c9c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column-reverse;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(10, 50px);
+  grid-gap: 2px;
+}
+.cell {
+  background-color: #d9b99b;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #ccc;
+  font-weight: bold;
+  cursor: pointer;
+  user-select: none;
+}
+.selected {
+  background-color: yellow;
+}
+.found {
+  text-decoration: line-through;
+  background-color: rgb(238, 144, 144);
+}
+.word-list {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 1.8vw;
+  font-weight: 700;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  width: 19vw;
+  color: #000;
+}
+.winContainer{
+  width: 100vw;
+  height: 100vh;
+  background-color: #443c9c;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.winText{
+color: #fff;
+margin-bottom: 10vh;
+font-size: 3vw;
+}
+.winButton{
+background-color: #443c9c;
+color: #fff;
+padding-left: 1vw;
+padding-right: 1vw;
+padding-top: 0.5vw;
+padding-bottom: 0.5vw;
+font-size: 2em;
+border: #000;
+}
+.winButton:hover {
+  scale: 105%;
+}
