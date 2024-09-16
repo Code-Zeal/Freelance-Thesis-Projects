@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Este repositorio contiene una colección de 15 proyectos freelance realizados para tesis de estudiantes. Estos proyectos fueron desarrollados siguiendo los requisitos del cliente, incluyendo documentación, pruebas, clases y proporcionando tutoría sobre programación a los estudiantes para la defensa de la tesis. Los proyectos abarcan diferentes tipos de aplicaciones, como páginas web, servidores, bots de Telegram, aplicaciones móviles y programas de escritorio.
+Este repositorio contiene una colección de 16 proyectos freelance realizados para tesis de estudiantes. Estos proyectos fueron desarrollados siguiendo los requisitos del cliente, incluyendo documentación, pruebas, clases y proporcionando tutoría sobre programación a los estudiantes para la defensa de la tesis. Los proyectos abarcan diferentes tipos de aplicaciones, como páginas web, servidores, bots de Telegram, aplicaciones móviles y programas de escritorio.
 
 ## Proyectos
 
@@ -66,7 +66,7 @@ Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, puede
 
 ## Description
 
-This repository contains a collection of 15 freelance projects done for student theses. These projects were developed following the client's requirements, including documentation, testing, lectures and providing programming tutoring to the students for the thesis defense. The projects cover different types of applications, such as websites, servers, Telegram bots, mobile applications and desktop programs.
+This repository contains a collection of 16 freelance projects done for student theses. These projects were developed following the client's requirements, including documentation, testing, lectures and providing programming tutoring to the students for the thesis defense. The projects cover different types of applications, such as websites, servers, Telegram bots, mobile applications and desktop programs.
 
 ## Projects
 
